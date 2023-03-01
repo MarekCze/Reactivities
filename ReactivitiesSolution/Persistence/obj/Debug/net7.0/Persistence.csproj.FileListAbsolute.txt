@@ -1,0 +1,15 @@
+D:\Projects\ASP.Net\Reactivities\ReactivitiesSolution\Persistence\bin\Debug\net7.0\Persistence.deps.json
+D:\Projects\ASP.Net\Reactivities\ReactivitiesSolution\Persistence\bin\Debug\net7.0\Persistence.dll
+D:\Projects\ASP.Net\Reactivities\ReactivitiesSolution\Persistence\bin\Debug\net7.0\Persistence.pdb
+D:\Projects\ASP.Net\Reactivities\ReactivitiesSolution\Persistence\bin\Debug\net7.0\Domain.dll
+D:\Projects\ASP.Net\Reactivities\ReactivitiesSolution\Persistence\bin\Debug\net7.0\Domain.pdb
+D:\Projects\ASP.Net\Reactivities\ReactivitiesSolution\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+D:\Projects\ASP.Net\Reactivities\ReactivitiesSolution\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ASP.Net\Reactivities\ReactivitiesSolution\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+D:\Projects\ASP.Net\Reactivities\ReactivitiesSolution\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+D:\Projects\ASP.Net\Reactivities\ReactivitiesSolution\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Projects\ASP.Net\Reactivities\ReactivitiesSolution\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+D:\Projects\ASP.Net\Reactivities\ReactivitiesSolution\Persistence\obj\Debug\net7.0\Persistence.dll
+D:\Projects\ASP.Net\Reactivities\ReactivitiesSolution\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+D:\Projects\ASP.Net\Reactivities\ReactivitiesSolution\Persistence\obj\Debug\net7.0\Persistence.pdb
+D:\Projects\ASP.Net\Reactivities\ReactivitiesSolution\Persistence\obj\Debug\net7.0\ref\Persistence.dll
