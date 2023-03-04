@@ -13,3 +13,18 @@ D:\Projects\ASP.Net\Reactivities\ReactivitiesSolution\Persistence\obj\Debug\net7
 D:\Projects\ASP.Net\Reactivities\ReactivitiesSolution\Persistence\obj\Debug\net7.0\refint\Persistence.dll
 D:\Projects\ASP.Net\Reactivities\ReactivitiesSolution\Persistence\obj\Debug\net7.0\Persistence.pdb
 D:\Projects\ASP.Net\Reactivities\ReactivitiesSolution\Persistence\obj\Debug\net7.0\ref\Persistence.dll
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Persistence\bin\Debug\net7.0\Persistence.deps.json
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Persistence\bin\Debug\net7.0\Persistence.dll
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Persistence\bin\Debug\net7.0\Persistence.pdb
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Persistence\bin\Debug\net7.0\Domain.dll
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Persistence\bin\Debug\net7.0\Domain.pdb
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Persistence\obj\Debug\net7.0\Persistence.dll
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Persistence\obj\Debug\net7.0\Persistence.pdb
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Persistence\obj\Debug\net7.0\ref\Persistence.dll

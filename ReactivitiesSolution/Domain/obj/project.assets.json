@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\paper\\.nuget\\packages\\": {}
+    "C:\\Users\\marek\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Domain\\Domain.csproj",
+      "projectUniqueName": "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\paper\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Domain\\obj\\",
+      "projectPath": "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\marek\\.nuget\\packages\\",
+      "outputPath": "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\paper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\marek\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

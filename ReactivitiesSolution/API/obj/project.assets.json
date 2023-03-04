@@ -1767,19 +1767,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\paper\\.nuget\\packages\\": {}
+    "C:\\Users\\marek\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\API\\API.csproj",
+      "projectUniqueName": "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\paper\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\API\\obj\\",
+      "projectPath": "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\marek\\.nuget\\packages\\",
+      "outputPath": "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\paper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\marek\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1793,8 +1793,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Application\\Application.csproj": {
-              "projectPath": "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Application\\Application.csproj"
+            "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Application\\Application.csproj": {
+              "projectPath": "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Application\\Application.csproj"
             }
           }
         }
@@ -1843,7 +1843,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

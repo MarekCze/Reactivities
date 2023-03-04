@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\API\\API.csproj": {}
+    "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\API\\API.csproj": {
+    "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\API\\API.csproj",
+        "projectUniqueName": "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\paper\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\API\\obj\\",
+        "projectPath": "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\marek\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\paper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marek\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Application\\Application.csproj": {
-                "projectPath": "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Application\\Application.csproj"
+              "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Application\\Application.csproj": {
+                "projectPath": "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Application\\Application.csproj"
               }
             }
           }
@@ -78,21 +78,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Application\\Application.csproj": {
+    "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Application\\Application.csproj",
+        "projectUniqueName": "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\paper\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Application\\obj\\",
+        "projectPath": "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\marek\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\paper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marek\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -106,11 +106,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Domain\\Domain.csproj"
+              "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Domain\\Domain.csproj": {
+                "projectPath": "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Domain\\Domain.csproj"
               },
-              "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Persistence\\Persistence.csproj": {
-                "projectPath": "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Persistence\\Persistence.csproj"
+              "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Persistence\\Persistence.csproj": {
+                "projectPath": "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -140,21 +140,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Domain\\Domain.csproj": {
+    "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Domain\\Domain.csproj",
+        "projectUniqueName": "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\paper\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Domain\\obj\\",
+        "projectPath": "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\marek\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\paper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marek\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -195,21 +195,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Persistence\\Persistence.csproj": {
+    "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\paper\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Persistence\\obj\\",
+        "projectPath": "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\marek\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\paper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marek\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -223,8 +223,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Projects\\ASP.Net\\Reactivities\\ReactivitiesSolution\\Domain\\Domain.csproj"
+              "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Domain\\Domain.csproj": {
+                "projectPath": "F:\\Projects\\Web Development\\ASP NET\\Reactivities\\ReactivitiesSolution\\Domain\\Domain.csproj"
               }
             }
           }
@@ -260,7 +260,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

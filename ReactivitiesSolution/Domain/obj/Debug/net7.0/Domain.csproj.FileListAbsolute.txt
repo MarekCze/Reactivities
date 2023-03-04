@@ -10,3 +10,15 @@ D:\Projects\ASP.Net\Reactivities\ReactivitiesSolution\Domain\obj\Debug\net7.0\Do
 D:\Projects\ASP.Net\Reactivities\ReactivitiesSolution\Domain\obj\Debug\net7.0\refint\Domain.dll
 D:\Projects\ASP.Net\Reactivities\ReactivitiesSolution\Domain\obj\Debug\net7.0\Domain.pdb
 D:\Projects\ASP.Net\Reactivities\ReactivitiesSolution\Domain\obj\Debug\net7.0\ref\Domain.dll
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Domain\bin\Debug\net7.0\Domain.deps.json
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Domain\bin\Debug\net7.0\Domain.dll
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Domain\bin\Debug\net7.0\Domain.pdb
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Domain\obj\Debug\net7.0\Domain.dll
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Domain\obj\Debug\net7.0\refint\Domain.dll
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Domain\obj\Debug\net7.0\Domain.pdb
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\Domain\obj\Debug\net7.0\ref\Domain.dll
