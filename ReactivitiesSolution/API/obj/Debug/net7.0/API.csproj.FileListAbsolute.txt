@@ -148,3 +148,7 @@ F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\API\obj\De
 F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\API\obj\Debug\net7.0\API.pdb
 F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\API\obj\Debug\net7.0\ref\API.dll
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\API\bin\Debug\net7.0\MediatR.dll
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\API\bin\Debug\net7.0\MediatR.Contracts.dll
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\API\bin\Debug\net7.0\AutoMapper.dll
+F:\Projects\Web Development\ASP NET\Reactivities\ReactivitiesSolution\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
